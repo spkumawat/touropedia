@@ -17,7 +17,7 @@ app.use("/tour", tourRouter);
 
 
 
-const MONGODB_URL ="mongodb+srv://gaganCode:Hellotour123@cluster0.ceze3c9.mongodb.net/?retryWrites=true&w=majority";
+const MONGODB_URL ="mongodb+srv://satyaprakashkumawat1999:Xm8hOkGIKB8dVd0M@maincluster.djga93n.mongodb.net/?retryWrites=true&w=majority";
 const port = 5000;
 
 mongoose
